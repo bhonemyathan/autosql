@@ -11,7 +11,9 @@ figlet -f slant "Auto SQL Injection"
 echo -e '\e[0m'
 echo -e '\e[1;31m [+]---------------------------------------------------[+]
                     Author:Bhone Myat Han
-                    Github:
+                    Github:https://github.com/noobprogrammerD4V8ll/
+           
+               [+]Normal Sql Injection Not For Waf[+]
                     
                  Specially Thank to Sqlmap Tool
  [+]---------------------------------------------------[+]
