@@ -11,10 +11,10 @@ echo -e '\e[1;32m'
 figlet -f slant "Auto SQL Injection"
 echo -e '\e[0m'
 echo -e '\e[1;31m [+]---------------------------------------------------[+]
-                    Author:Bhone Myat Han
-                    Github:https://github.com/noobprogrammerD4V8ll
+             Author:Bhone Myat Han
+             Github:https://github.com/noobprogrammerD4V8ll
                     
-                 Specially Thank to Sqlmap Tool && SiThu Tun(TiMe)
+       Specially Thank to Sqlmap Tool && SiThu Tun(TiMe)
  [+]---------------------------------------------------[+]
 \e[0m'
 echo -e "\e[1;31m              Eg:targetsite.com/index.php?id=1 \e[0m"
