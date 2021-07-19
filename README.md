@@ -12,3 +12,7 @@
 <br>
 <p>Kali Linux</em>
 <img src="autosql.png">
+<li>sudo apt-get update && apt-get upgrade</li>
+<li>sudo git clone https://github.com/noobprogrammerD4V8ll/autosql</li>
+<li>cd autosql</li>
+<li>bash auto.sh</li>
